@@ -92,8 +92,7 @@ const fileController = {
     let newPath;
 
     const options = {
-      uploadDir:
-        "C:/INNE/moje/szkoła/APLIKACJE/server-applications/stefanczyk/instaapp/server/profilepictures/",
+      uploadDir: "../../server/profilepictures/",
       multiples: true,
       keepExtensions: true,
       allowEmptyFiles: false,
